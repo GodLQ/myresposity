@@ -1,2 +1,3 @@
 # myresposity
-模仿b站李仁密老师的个人博客
+技术栈：
+springboot+mybatis+semantic-ui+mysql
